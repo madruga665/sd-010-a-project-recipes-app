@@ -2,13 +2,27 @@
 
 # 🚀️ Projeto realizado no final do bloco 19
 
-## 💚️ Resultado 💚️
+## 🏃‍♀️ Como rodar o projeto na sua maquina?
 
-<img src="./resultado-do-projeto.png">
+---
+### 1. Faça um clone do projeto:
+```
+git clone https://github.com/madruga665/trybe-projeto-recipes-app.git
+```
 
-# Habilidades
+### 2. Instale as dependências:
 
-Nesse projeto, você será capaz de:
+```
+npm install
+```
+
+### 3. Rode a aplicação utilizando o comando:
+
+```
+npm start
+```
+
+# Habilidades Desenvolvidas:
 
   - Utilizar Redux para gerenciar estado
   - Utilizar a biblioteca React-Redux
