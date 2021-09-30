@@ -4,7 +4,6 @@
 
 ## 🏃‍♀️ Como rodar o projeto na sua maquina?
 
----
 ### 1. Faça um clone do projeto:
 ```
 git clone https://github.com/madruga665/trybe-projeto-recipes-app.git
